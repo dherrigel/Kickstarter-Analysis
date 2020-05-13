@@ -9,7 +9,7 @@ This illustrates that the largest amount of succesful projects are under $1000, 
 It also shows that there are a low percentage of successful and higher percentages of failed/canceled projects at the $10-15K and the $20-25K ranges. 
 
 analysis 2 - "outcomes base on start date" - uses a pivot table to qantify the number of theater projects that canceled, were succesful, or failed to reach goal based on the month launched on the kickstarter platform. note that this data includes "live" projects whose outcome is TBA at the present time.
-The Charting illustrates that May and June are both the most popular and must statistally successful dates to start Theatre projects. 
+The Charting illustrates that May and June are both the most popular and must statistically successful dates to start Theatre projects. 
 It also allows us to conclude that December is the highest risk start date, with the narrowest gap between successful and failed projects. 
 
 Additional table / graph suggestions: now that we can see correlations between goals and start dates to success, it would be helpful to see if there is a correlation of goal values to start dates 
